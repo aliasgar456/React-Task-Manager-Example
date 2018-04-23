@@ -1,0 +1,33 @@
+.navbar-default{
+	background-color: #fb0 !important;
+}
+.navbar-brand {
+}
+body {
+	position: relative;
+	overflow-x: hidden;
+}
+.btn-add {
+	position: fixed;
+	bottom: 120px;
+	right: 125px;
+	border-style: none;
+	border-radius: 50%;
+	background-color: #fb0 !important;
+	box-shadow: 3px 3px 3px #888888;
+}
+.btn-add:hover{
+	
+}
+.noteContainer{
+	margin-top: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 25px 25px 25px 25px;
+    box-shadow: 2px 2px 10px #888888;
+}
+.show-list-Task-Panel{
+	margin-top: 20px;
+    margin-left: 135px;
+    margin-right: 135px;
+}
